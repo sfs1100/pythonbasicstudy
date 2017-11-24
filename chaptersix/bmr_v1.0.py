@@ -12,9 +12,9 @@ def main():
 
     gender = '男'
 
-    weight = 85
+    weight = 70
 
-    height = 170
+    height = 175
 
     age = 38
 

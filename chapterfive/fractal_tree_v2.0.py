@@ -44,10 +44,6 @@ def draw_branch(branch_length):
 
 
 
-
-
-
-
 def main():
     '''
         主函数
@@ -59,7 +55,7 @@ def main():
     turtle.pensize(2)
     turtle.pencolor('red')
 
-    size = 90
+    size = 70
     draw_branch(size)
 
 

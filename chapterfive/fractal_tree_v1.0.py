@@ -20,7 +20,6 @@ def draw_branch(branch_length):
         turtle.right(20)
         draw_branch(branch_length-10)
 
-
        #绘制左侧树枝
         turtle.left(40)
         draw_branch(branch_length-10)
@@ -28,12 +27,6 @@ def draw_branch(branch_length):
         #返回之前的树枝
         turtle.right(20)
         turtle.backward(branch_length)
-
-
-
-
-
-
 
 def main():
     '''
@@ -48,7 +41,6 @@ def main():
 
     size = 70
     draw_branch(size)
-
 
     turtle.exitonclick()
 

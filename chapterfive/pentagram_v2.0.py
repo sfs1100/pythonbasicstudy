@@ -4,7 +4,7 @@
     功能：五角星的绘制
     版本：2.0
     日期：2017-11-09
-    新增功能：加入循环操作绘制重复不同大小的图形
+    2.0 新增功能：加入循环操作绘制重复不同大小的图形
 '''
 
 import turtle
@@ -30,7 +30,7 @@ def main():
     size = 50
     while size <= 200:
         draw_pemtagram(size)
-        size += 10
+        size += 20
 
     # for size in range(50,200,10):
     #     draw_pemtagram(size)
