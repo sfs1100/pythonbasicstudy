@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61293b5a-d1a8-4b82-ab05-ad657d61c4eb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chaptereleven/aqi_v3.0.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chaptereleven/aqi_v4.0.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chaptereleven/aqi_v5.0.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chaptereleven/api_v1.0.py" afterPath="$PROJECT_DIR$/chaptereleven/aqi_v1.0.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chaptereleven/api_v2.0.py" afterPath="$PROJECT_DIR$/chaptereleven/aqi_v2.0.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chaptereleven/aqi_v6.0.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chaptereleven/aqi_v7.0.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapterfive/fractal_tree_v1.0.py" afterPath="$PROJECT_DIR$/chapterfive/fractal_tree_v1.0.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapterfive/fractal_tree_v2.0.py" afterPath="$PROJECT_DIR$/chapterfive/fractal_tree_v2.0.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapterfive/pentagram_v2.0.py" afterPath="$PROJECT_DIR$/chapterfive/pentagram_v2.0.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapterfive/pentagram_v3.0.py" afterPath="$PROJECT_DIR$/chapterfive/pentagram_v3.0.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chaptersix/bmr_v1.0.py" afterPath="$PROJECT_DIR$/chaptersix/bmr_v1.0.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapterseven/money_challenge_v1.0.py" afterPath="$PROJECT_DIR$/chapterseven/money_challenge_v1.0.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,12 +17,12 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/pythonbasicstudy$which_day_v1_0.coverage" NAME="which_day_v1.0 Coverage Results" MODIFIED="1510640156431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chaptereight" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$convert_rate_v3_0.coverage" NAME="convert_rate_v3.0 Coverage Results" MODIFIED="1511245267691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapterfour" />
-    <SUITE FILE_PATH="coverage/pythonbasicstudy$money_challenge_v1_0.coverage" NAME="money_challenge_v1.0 Coverage Results" MODIFIED="1510556435183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapterseven" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$analog_dice_v5_0.coverage" NAME="analog_dice_v5.0 Coverage Results" MODIFIED="1511070157067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapterten" />
+    <SUITE FILE_PATH="coverage/pythonbasicstudy$money_challenge_v1_0.coverage" NAME="money_challenge_v1.0 Coverage Results" MODIFIED="1511835098696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapterseven" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$pentagram_v3_0.coverage" NAME="pentagram_v3.0 Coverage Results" MODIFIED="1511405306925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapterfive" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$api_v4_0.coverage" NAME="api_v4.0 Coverage Results" MODIFIED="1511402664876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chaptereleven" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$fractal_tree_v2_0.coverage" NAME="fractal_tree_v2.0 Coverage Results" MODIFIED="1511405437676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapterfive" />
-    <SUITE FILE_PATH="coverage/pythonbasicstudy$bmr_v3_0.coverage" NAME="bmr_v3.0 Coverage Results" MODIFIED="1510449565389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chaptersix" />
+    <SUITE FILE_PATH="coverage/pythonbasicstudy$bmr_v3_0.coverage" NAME="bmr_v3.0 Coverage Results" MODIFIED="1511751446074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chaptersix" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$bmr_v1_0.coverage" NAME="bmr_v1.0 Coverage Results" MODIFIED="1511492102597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chaptersix" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$analog_dice_v6_0.coverage" NAME="analog_dice_v6.0 Coverage Results" MODIFIED="1511078057661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapterten" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$pwd_strength_v3_0.coverage" NAME="pwd_strength_v3.0 Coverage Results" MODIFIED="1510819094433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapternine" />
@@ -46,14 +39,16 @@
     <SUITE FILE_PATH="coverage/pythonbasicstudy$money_challenge_v3_0.coverage" NAME="money_challenge_v3.0 Coverage Results" MODIFIED="1510560537625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapterseven" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$pwd_strength_v2_0.coverage" NAME="pwd_strength_v2.0 Coverage Results" MODIFIED="1510734407053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapternine" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$convert_rate_v5_0.coverage" NAME="convert_rate_v5.0 Coverage Results" MODIFIED="1511246211930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapterfour" />
+    <SUITE FILE_PATH="coverage/pythonbasicstudy$aqi_v6_0.coverage" NAME="aqi_v6.0 Coverage Results" MODIFIED="1511752688468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chaptereleven" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$api_v2_0.coverage" NAME="api_v2.0 Coverage Results" MODIFIED="1511231677049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chaptereleven" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$bmr_v5_0.coverage" NAME="bmr_v5.0 Coverage Results" MODIFIED="1510451175814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chaptersix" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$pentagram_v2_0.coverage" NAME="pentagram_v2.0 Coverage Results" MODIFIED="1511317849435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapterfive" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$pwd_strength_v5_0.coverage" NAME="pwd_strength_v5.0 Coverage Results" MODIFIED="1510905860926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapternine" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$which_day_v3_0.coverage" NAME="which_day_v3.0 Coverage Results" MODIFIED="1510642434078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chaptereight" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$analog_dice_v3_0.coverage" NAME="analog_dice_v3.0 Coverage Results" MODIFIED="1511063511403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapterten" />
-    <SUITE FILE_PATH="coverage/pythonbasicstudy$money_challenge_v2_0.coverage" NAME="money_challenge_v2.0 Coverage Results" MODIFIED="1510557860295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapterseven" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$fractal_tree_v1_0.coverage" NAME="fractal_tree_v1.0 Coverage Results" MODIFIED="1511404887684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapterfive" />
+    <SUITE FILE_PATH="coverage/pythonbasicstudy$money_challenge_v2_0.coverage" NAME="money_challenge_v2.0 Coverage Results" MODIFIED="1511836364572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapterseven" />
+    <SUITE FILE_PATH="coverage/pythonbasicstudy$aqi_v7_0.coverage" NAME="aqi_v7.0 Coverage Results" MODIFIED="1511833684782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chaptereleven" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$which_day_v2_0.coverage" NAME="which_day_v2.0 Coverage Results" MODIFIED="1510640535056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chaptereight" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$pwd_strength_v1_0.coverage" NAME="pwd_strength_v1.0 Coverage Results" MODIFIED="1510732940956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapternine" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$convert_rate_v2_0.coverage" NAME="convert_rate_v2.0 Coverage Results" MODIFIED="1511159673194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapterfour" />
@@ -62,31 +57,11 @@
     <SUITE FILE_PATH="coverage/pythonbasicstudy$money_challenge_v5_0.coverage" NAME="money_challenge_v5.0 Coverage Results" MODIFIED="1510562718084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapterseven" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$analog_dice_v4_0.coverage" NAME="analog_dice_v4.0 Coverage Results" MODIFIED="1511068483080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapterten" />
     <SUITE FILE_PATH="coverage/pythonbasicstudy$pwd_strength_v4_0.coverage" NAME="pwd_strength_v4.0 Coverage Results" MODIFIED="1510903446744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapternine" />
+    <SUITE FILE_PATH="coverage/pythonbasicstudy$bmr_v4_0.coverage" NAME="bmr_v4.0 Coverage Results" MODIFIED="1511751516040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chaptersix" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="bmr_v1.0.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chaptersix/bmr_v1.0.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bmr_v2.0.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chaptersix/bmr_v2.0.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -111,7 +86,6 @@
         <option value="$PROJECT_DIR$/chaptersix/bmr_v3.0.py" />
         <option value="$PROJECT_DIR$/chaptersix/bmr_v4.0.py" />
         <option value="$PROJECT_DIR$/chaptersix/bmr_v5.0.py" />
-        <option value="$PROJECT_DIR$/chapterseven/money_challenge_v1.0.py" />
         <option value="$PROJECT_DIR$/chapterseven/money_challenge_v2.0.py" />
         <option value="$PROJECT_DIR$/chapterseven/money_challenge_v3.0.py" />
         <option value="$PROJECT_DIR$/chapterseven/money_challenge_v4.0.py" />
@@ -144,6 +118,9 @@
         <option value="$PROJECT_DIR$/chapterfive/fractal_tree_v2.0.py" />
         <option value="$PROJECT_DIR$/chaptereleven/aqi_v5.0.py" />
         <option value="$PROJECT_DIR$/chaptersix/bmr_v1.0.py" />
+        <option value="$PROJECT_DIR$/chaptereleven/aqi_v6.0.py" />
+        <option value="$PROJECT_DIR$/chaptereleven/aqi_v7.0.py" />
+        <option value="$PROJECT_DIR$/chapterseven/money_challenge_v1.0.py" />
       </list>
     </option>
   </component>
@@ -154,10 +131,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="655" />
+    <option name="x" value="421" />
     <option name="y" value="23" />
-    <option name="width" value="737" />
-    <option name="height" value="709" />
+    <option name="width" value="789" />
+    <option name="height" value="712" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -199,7 +176,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chaptersix" />
+              <option name="myItemId" value="chapterseven" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -239,46 +216,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bmr_v1.0">
-    <configuration default="false" name="fractal_tree_v2.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapterfive" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonbasicstudy" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapterfive/fractal_tree_v2.0.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="pentagram_v3.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapterfive" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonbasicstudy" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapterfive/pentagram_v3.0.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="aqi_v5.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.money_challenge_v2.0">
+    <configuration default="false" name="aqi_v6.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -291,13 +230,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonbasicstudy" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chaptereleven/aqi_v5.0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chaptereleven/aqi_v6.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="bmr_v1.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="bmr_v4.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -310,26 +249,64 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonbasicstudy" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chaptersix/bmr_v1.0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chaptersix/bmr_v4.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="bmr_v2.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="aqi_v7.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chaptersix" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chaptereleven" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonbasicstudy" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chaptersix/bmr_v2.0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chaptereleven/aqi_v7.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="money_challenge_v1.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapterseven" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonbasicstudy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapterseven/money_challenge_v1.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="money_challenge_v2.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapterseven" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonbasicstudy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapterseven/money_challenge_v2.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -501,19 +478,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.fractal_tree_v2.0" />
-      <item index="1" class="java.lang.String" itemvalue="Python.pentagram_v3.0" />
-      <item index="2" class="java.lang.String" itemvalue="Python.aqi_v5.0" />
-      <item index="3" class="java.lang.String" itemvalue="Python.bmr_v1.0" />
-      <item index="4" class="java.lang.String" itemvalue="Python.bmr_v2.0" />
+      <item index="0" class="java.lang.String" itemvalue="Python.aqi_v6.0" />
+      <item index="1" class="java.lang.String" itemvalue="Python.bmr_v4.0" />
+      <item index="2" class="java.lang.String" itemvalue="Python.aqi_v7.0" />
+      <item index="3" class="java.lang.String" itemvalue="Python.money_challenge_v1.0" />
+      <item index="4" class="java.lang.String" itemvalue="Python.money_challenge_v2.0" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.bmr_v1.0" />
-        <item index="1" class="java.lang.String" itemvalue="Python.bmr_v2.0" />
-        <item index="2" class="java.lang.String" itemvalue="Python.aqi_v5.0" />
-        <item index="3" class="java.lang.String" itemvalue="Python.fractal_tree_v2.0" />
-        <item index="4" class="java.lang.String" itemvalue="Python.pentagram_v3.0" />
+        <item index="0" class="java.lang.String" itemvalue="Python.money_challenge_v2.0" />
+        <item index="1" class="java.lang.String" itemvalue="Python.money_challenge_v1.0" />
+        <item index="2" class="java.lang.String" itemvalue="Python.aqi_v7.0" />
+        <item index="3" class="java.lang.String" itemvalue="Python.aqi_v6.0" />
+        <item index="4" class="java.lang.String" itemvalue="Python.bmr_v4.0" />
       </list>
     </recent_temporary>
   </component>
@@ -534,16 +511,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="655" y="23" width="737" height="709" extended-state="0" />
+    <frame x="421" y="23" width="789" height="712" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2961083" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43434343" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32318106" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30215827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33467203" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24846625" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43654823" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -588,62 +565,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapterfour/convert_rate_v1.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chaptersix/bmr_v5.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="40" column="12" lean-forward="false" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chaptersix/bmr_v4.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chaptersix/bmr_v3.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapterseven/money_challenge_v4.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapterseven/money_challenge_v3.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapterseven/money_challenge_v2.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapterseven/money_challenge_v1.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chaptereight/which_day_v4.0.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="512">
@@ -884,9 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="e#151#162#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -894,7 +812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -923,17 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="36" column="46" lean-forward="true" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
-          <folding>
-            <element signature="e#196#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chaptereleven/aqi_v5.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -941,22 +847,89 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chaptersix/bmr_v2.0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chaptersix/bmr_v1.0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="164">
+          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chaptereleven/aqi_v5.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chaptersix/bmr_v5.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="40" column="12" lean-forward="false" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chaptersix/bmr_v4.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="27" column="73" lean-forward="true" selection-start-line="27" selection-start-column="73" selection-end-line="27" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chaptersix/bmr_v3.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chaptereleven/aqi_v7.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="63" column="7" lean-forward="true" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chaptereleven/aqi_v6.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="35" column="23" lean-forward="false" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+          <folding>
+            <element signature="e#256#271#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapterseven/money_challenge_v3.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-59">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapterseven/money_challenge_v2.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapterseven/money_challenge_v1.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
           <folding />
         </state>
       </provider>
